@@ -60,3 +60,5 @@ Some Basic commands -
 3. Check current database - db
 4. Show collections in current database - show collections
 
+
+<img width="524" height="277" alt="image" src="https://github.com/user-attachments/assets/66de7760-5453-4582-91c8-c62527258e4d" />
