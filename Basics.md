@@ -48,7 +48,7 @@ A document is a single record stored in MongoDB.
 It is stored in JSON-like format (called BSON internally).
 Example - 
 {
-  "name": "Govind",
+  "name": "Jai karan",
   "role": "Instructor",
   "experience": 5
 }
